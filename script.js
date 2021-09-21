@@ -18,7 +18,7 @@ new Vue({
         {
           name: "RADIO",
           artist: "Alka Yagnik Shemaroo",
-          cover: "../assets/images/radio/radio.png",
+          cover: "https://sklktecdnems06.cdnsrv.jio.com/c.saavncdn.com/289/Melody-Queen-Best-Of-Alka-Yagnik-2014-500x500.jpg",
           source: "https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8",
           url: "#",
           favorited: true
