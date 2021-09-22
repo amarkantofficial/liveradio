@@ -15,7 +15,7 @@
         <div class="player__top">
           <div class="player-cover">
             <transition-group :name="transitionName">
-                <div class="player-cover__item" v-if="$index === currentTrackIndex" :style="{ backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7d4H8L0bpIsR5yfBp9Niob26FgKLitte_J5D_ku6FqMCIGcA_K2s0aaCii4MGHwleOQ&usqp=CAU)` }"  v-for="(track, $index) in tracks" :key="$index"></div>
+                <div class="player-cover__item" v-if="$index === currentTrackIndex" :style="{ backgroundImage: `url(#)` }"  v-for="(track, $index) in tracks" :key="$index"></div>
             </transition-group>
           </div> 
           <div class="player-controls">
