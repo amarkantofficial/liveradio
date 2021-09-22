@@ -23,6 +23,23 @@ new Vue({
           url: "#",
           favorited: true
         },
+        
+        {
+
+          name: "Cricket Commentry",
+
+          artist: "Alka Yagnik Shemaroo",
+
+          cover: "https://sklktecdnems06.cdnsrv.jio.com/c.saavncdn.com/289/Melody-Queen-Best-Of-Alka-Yagnik-2014-500x500.jpg",
+
+          source: "https://cricplex.net:8080/hls/cricplexradio.m3u8",
+
+          url: "#",
+
+          favorited: true
+
+        },
+        
         {
           name: "RADIO",
           artist: "Abhijeet Shemaroo",
